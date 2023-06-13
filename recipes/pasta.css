@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1, h2{
+    font-weight:900;
+    color: cornflowerblue;
+}
+
+ul {
+    color: brown;
+    font-weight: bold;
+}
+
+ol {
+    color: sandybrown;
+    font-weight: 500;
+}

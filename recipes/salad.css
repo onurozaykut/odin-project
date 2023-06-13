@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+img {
+    height: auto;
+    width: 400px;
+}
+
+h1 {
+    background-color: coral;
+    width: 19%;
+    color: aqua;
+    font-weight: lighter;
+}
+
+ul {
+    color: darkorange;
+    font-weight: bold;
+}
+
+ol {
+    color: darkred;
+    font-weight: bold;
+}
+
+h2 {
+    color: darkslategray;
+}
