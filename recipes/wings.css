@@ -1,22 +1,66 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
+    background-color: rgba(255, 238, 0, 0.158);
 }
 
-h1 {
-    background-color: bisque;
-    width: 20%;
-    color: crimson;
+.wings {
+    width: 500px;
+    margin: 0px auto;
+    padding-top: 5px;
+    border: 3px solid black;
+    border-radius: 25px;
 }
 
-ul {
-    font-size: larger;
+.titleimage h1{
+    background-color: rgba(207, 65, 132, 0.171);
+    margin: 5px auto;
+    padding: 1px;
+    border: 2px solid black;
+    border-radius: 40px;
+    width: 370px;
+
 }
 
-h2 {
-    color: crimson;
+.titleimage img{
+    width: 475px;
+    height: auto;
+    border: 2px solid black;
 }
 
-ol {
-    color: fuchsia;
+.titleimage {
+    text-align: center;
+}
+
+ul li {
+    list-style-type: none;
+    text-align: center;
+    margin-left: -35px;
+    font-style: italic;
+}
+
+.directions {
+    background-color: rgba(255, 228, 196, 0.418);
+    border-radius: 25px;
+    text-align: center;
+}
+
+.directions h2{
+    border: 1px solid black;
+    border-radius: 5px;
+    width: 125px;
+    margin: 0 auto;
+}
+
+.directions li{
+    list-style-type: none;
+    text-align: center;
+    margin-left: -35px;
+    font-size: small;
+
+}
+
+button {
+    background-color: white;
+    border: 1px solid black;
     font-weight: bold;
 }
